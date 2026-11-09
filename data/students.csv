@@ -1,0 +1,6 @@
+id,name,age,email,phone,course
+S001,Asha Nair,20,asha.nair@example.com,+91 98450 11001,Computer Science
+S002,Ravi Kumar,22,ravi.kumar@example.com,+91 98450 11002,Information Technology
+S003,Meera Joseph,21,meera.joseph@example.com,+91 98450 11003,Electronics
+S004,Arjun Menon,19,arjun.menon@example.com,+91 98450 11004,Mechanical Engineering
+S005,Fatima Sheikh,23,fatima.sheikh@example.com,+91 98450 11005,Mathematics
